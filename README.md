@@ -1,4 +1,13 @@
-﻿# Predictive Maintenance System
+# 🚨 PREDICTIVE MAINTENANCE SYSTEM
+
+> **Predict Equipment Failure Before It Happens | Save ₹50,000 - ₹500,000**
+
+---
+
+## 📊 LIVE EXAMPLE OUTPUT
+
+### Equipment Monitoring Alert
+
 
 Equipment Anomaly Detection & Failure Prediction using NumPy & Matplotlib
 
